@@ -8,5 +8,6 @@ public class GitTester
 	{
 		GitTester gt = new GitTester();
 		System.out.println("Hello Git");
+		System.out.println("How are you?");
 	}
 }
