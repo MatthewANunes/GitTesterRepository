@@ -9,6 +9,6 @@ public class GitTester
 	public static void main(String[] args)
 	{
 		GitTester gt = new GitTester();
-		System.out.println("Hello Git");
+		System.out.println("Hell Git");
 	}
 }
